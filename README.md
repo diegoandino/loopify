@@ -1,4 +1,4 @@
-# loopify
+# loopify - a custom framerate video loop creator made with FFmpeg
 
 ## Usage
 1. Install FFmpeg
